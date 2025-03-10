@@ -26,6 +26,10 @@ FixMyText/
 │── .env                    # API keys and environment variables
 │── README.md               # Project documentation
 ```
+## 📸 Screenshots
+
+
+<img src="https://github.com/ritikkumar55/FixMyText/blob/main/views/Screenshot%20(144).png" width="1000" height="700" />
 
 ## 🛠️ Setup & Installation
 ### 1️⃣ Clone the repository
